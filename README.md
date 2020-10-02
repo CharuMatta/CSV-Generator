@@ -1,3 +1,5 @@
+This project is using python3.5 and above
+
 `gen.py`:- 
 This program output a csv of n rows specified via the `rows` argument, the header specified in the `column` option via the column_name. Generating different random data for each columns and rows of type integer (eg: 1,2,3000, …) or string (alpha characters of size 1 to 10 maximum)
 
